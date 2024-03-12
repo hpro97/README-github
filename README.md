@@ -56,12 +56,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
+<!---
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hpro97/hpro97/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="center">
