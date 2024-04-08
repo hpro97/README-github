@@ -1,4 +1,4 @@
-<h3 align="left">Hiya, i'm Harry. As a junior developer seeking my first employment opportunity in front-end development or software engineering, I come equipped with a certificate in Front End Web Development & UI/UX from the University of Birmingham. Throughout an intensive boot camp, I delved into HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node.js, and API usage. Notably, I've actively applied these skills to over 15 boot camp and personal projects, gaining hands-on experience and refining my abilities. Eager to transition this practical knowledge into a professional setting while continuing to contribute and learn.</h3>
+<h3 align="left">Hiya, i'm Harry. I'm a front end developer that enjoys using React. I come equipped with a certificate in Front End Web Development & UI/UX from the University of Birmingham. Some of the technologies i use on my day to day consist of HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node.js, and API usage. Notably, I've actively applied these skills to over 15 projects.</h3>
 
 ###
 
